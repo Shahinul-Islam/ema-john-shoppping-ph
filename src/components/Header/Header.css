@@ -1,0 +1,19 @@
+.header {
+  background-color: #1c2b35;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header img {
+  margin-left: 145px;
+}
+.link {
+  margin-right: 140px;
+}
+.link a {
+  color: white;
+  text-decoration: none;
+  margin-left: 35px;
+}
